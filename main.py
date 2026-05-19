@@ -6,7 +6,7 @@ from openai import OpenAI
 from google import genai
 from google.genai import types
 
-client = genai.Client(api_key="AIzaSyDXmee75_KfxQeiAlxH9Iz8oxa-CuALiZs")
+client = genai.Client(api_key="YOUR API KEY")
 MODEL = "gemini-3-flash"
 
 conn = sqlite3.connect("memory.db")
