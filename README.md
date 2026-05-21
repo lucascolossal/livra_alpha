@@ -103,12 +103,18 @@ Programador em formação.
 Este projeto nasceu da experiência de ser o aluno que o Livra atenderia.
 
 
+Para testar, inicie um chat anonimo com o CLaude*
+cole o prompt disponível no repositório
+No final da sessão diga: Fim da sessão, passar relatório.
+
+O prompt foi feito e testado para o Claude, não há garantia de funcionamento em outras LLMS 
+
+Nas versãoes finais, o prontuario da base superior das mensagens serão ocultos, podendo ser acessado apenas pelo professor ou pelo aluno autnonomo no final da sessão
 
 
 
 
-
-DO ESQUELETO TÉCNICO
+Arquitetura do Projeto
 
 
 
